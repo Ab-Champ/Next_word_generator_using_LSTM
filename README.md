@@ -59,7 +59,7 @@ Categorical crossentropy loss
 
 Trained for 150 epochs using the Adam optimizer
 
-![Architecture](Architecture overview.png)
+![Architecture](Architecture_overview.png)
 
 ## Results
 ![Results](Results.png)
